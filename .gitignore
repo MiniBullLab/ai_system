@@ -1,0 +1,25 @@
+# Executables
+*.exe
+*.out
+*.app
+
+# Visual Studio Code
+.vscode/*
+
+#python
+.idea/
+*.pyc
+
+#build
+build/*
+
+#Qt
+*.user
+
+#other
+*.doc
+*.docx
+*.vsd
+model/*.*
+#document/*.*
+

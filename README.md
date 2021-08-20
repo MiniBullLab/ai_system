@@ -17,23 +17,23 @@
 *[Background Subtraction Algorithm](https://github.com/andrewssobral/bgslibrary)* </br>
 
 <a name="multipletracking"></a>
-### 3.multipletracking
+### 2.multipletracking
 *Multi-target Tracking Algorithm* </br>
 
 <a name="saliencyDetect"></a>
-### 4.saliencyDetect
+### 3.saliencyDetect
 *Saliency Map Detection* </br>
 
 <a name="shadowDetect"></a>
-### 5.shadowDetect
+### 4.shadowDetect
 *[Shadow Detection](https://github.com/3ClassMrWang/ShadowDetection)* </br>
 
 <a name="imageFiltering"></a>
-### 6.imageFiltering
+### 5.imageFiltering
 *Image Filtering* </br>
 
 <a name="superpixelsExtract"></a>
-### 7.superpixelsExtract
+### 6.superpixelsExtract
 *[Superpixel Segmentation](https://github.com/davidstutz/superpixels-revisited)* </br>
 
 ## Depend

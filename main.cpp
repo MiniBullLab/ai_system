@@ -16,7 +16,7 @@ int main(int argc, char *argv[])
     QApplication app(argc, argv);
     //QTextCodec::setCodecForLocale(QTextCodec::codecForName("UTF-8"));
     app.setApplicationVersion("1.0");
-    app.setApplicationName("AI System");
+    app.setApplicationName("Easy System");
 
     QPixmap pixmap(":/images/sp.png");
     QSplashScreen splash(pixmap);
